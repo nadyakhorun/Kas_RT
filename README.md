@@ -1,8 +1,11 @@
 Nama Kelompok :
 
-- Dhea Dwi Adelia 
-- Ihsan Hadimulya
-- Nadya Khairunnisa
+| Nama              | NIM       |
+| ----------------- | --------- | 
+| Dhea Dwi Adelia   | 312210116 |
+| Ihsan Hadimulya   |  |
+| Nadya Khairunnisa |  |
+
 
 Kelas      : TI.22.A.1
 
@@ -10,3 +13,6 @@ Mata Kuliah  : Pemograman Mobile 2
 
 Dosen Pengampu  : Donny Maulana,S.Kom.,M.M.S.I
 
+
+1. Youtube :
+2. Pdf :
