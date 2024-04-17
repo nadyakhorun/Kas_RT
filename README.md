@@ -3,7 +3,7 @@ Nama Kelompok :
 | Nama              | NIM       |
 | ----------------- | --------- | 
 | Dhea Dwi Adelia   | 312210116 |
-| Ihsan Hadimulya   |  |
+| Ihsan Hadimulya   | 312210047 |
 | Nadya Khairunnisa |  |
 
 
