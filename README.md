@@ -4,7 +4,7 @@ Nama Kelompok :
 | ----------------- | --------- | 
 | Dhea Dwi Adelia   | 312210116 |
 | Ihsan Hadimulya   | 312210047 |
-| Nadya Khairunnisa |  |
+| Nadya Khairunnisa | 312210133 |
 
 
 Kelas      : TI.22.A.1
