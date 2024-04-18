@@ -13,7 +13,9 @@ Mata Kuliah  : Pemograman Mobile 2
 
 Dosen Pengampu  : Donny Maulana,S.Kom.,M.M.S.I
 
-Proyek : Aplikasi Android untuk Laporan Keuangan Kas RT
+# Proyek : 
+
+Aplikasi Android untuk Laporan Keuangan Kas RT
 
 # Deskripsi singkat :
 
