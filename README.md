@@ -6,11 +6,11 @@
 | Ihsan Hadimulya   | 312210047 |
 | Nadya Khairunnisa | 312210133 |
 
-# Kelas      : TI.22.A.1
+Kelas      : TI.22.A.1
 
-# Mata Kuliah  : Pemograman Mobile 2
+Mata Kuliah  : Pemograman Mobile 2
 
-# Dosen Pengampu  : Donny Maulana,S.Kom.,M.M.S.I
+Dosen Pengampu  : Donny Maulana,S.Kom.,M.M.S.I
 
 # Proyek : 
 
