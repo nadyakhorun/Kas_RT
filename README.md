@@ -1,3 +1,5 @@
+# Parsing Data JSON dalam Aplikasi Android
+
 # Nama Kelompok :
 
 | Nama              | NIM       |
@@ -10,7 +12,7 @@ Kelas      : TI.22.A.1
 
 Mata Kuliah  : Pemograman Mobile 2
 
-Dosen Pengampu  : Donny Maulana,S.Kom.,M.M.S.I
+Dosen Pengampu  : Donny Maulana, S.Kom., M.M.S.I
 
 # Proyek : 
 
