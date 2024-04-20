@@ -46,5 +46,5 @@ Proyek ini bertujuan untuk membuat aplikasi Android yang dapat menghasilkan lapo
 
 # Tutorial :
 
-1. Youtube :
+1. Youtube : https://youtu.be/jKU9kLoU6g8?si=IB1Fe70uAsMRoEUl
 2. Pdf : [Link PDF](https://drive.google.com/file/d/1w7GPhnqaSTh_bmsw6OlQkJtd9SVRaGXm/view?usp=drive_link)
